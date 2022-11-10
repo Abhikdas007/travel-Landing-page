@@ -104,3 +104,40 @@ header nav {
 }
 
 /* hero section ends  */
+
+
+/* destination section starts  */
+
+
+.destination {
+    padding: 70px 20%;
+    text-align: center;
+}
+
+.destination-tittle {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.items {
+    padding: 0 30px;
+}
+
+.items p {
+    margin: 10px 0;
+    line-height: 1.2;
+}
+
+.items img {
+    width: 200px;
+    height: 150px;
+}
+
+/* destination section ends  */
