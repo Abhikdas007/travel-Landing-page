@@ -165,3 +165,33 @@ header nav {
 
 
 /* review section ends  */
+
+/* Call To  action starts  */
+
+.call-to-action {
+    padding: 70px 15%;
+}
+
+.cta-conatiner {
+    background-color: var(--btn-color);
+    padding: 20px 45px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cta-box h3{
+    font-size: 18px;
+    color: var(--header-logo-text);
+    font-weight: 400;
+}
+
+.cta-box p{
+    color: var(--hero-secondText);
+}
+
+.btn {
+    border: 1px solid white;
+    border-radius: 10px;
+}
+
+/* Call to action ends  */
