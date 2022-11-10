@@ -133,6 +133,7 @@ header nav {
 .items p {
     margin: 10px 0;
     line-height: 1.2;
+    text-align: left;
 }
 
 .items img {
@@ -195,3 +196,14 @@ header nav {
 }
 
 /* Call to action ends  */
+
+
+/* footer section starts  */
+
+
+footer{
+    background-color: var(--bg-main);
+    padding: 16px;
+    text-align: center;
+    color: var(--hero-secondText);
+}
