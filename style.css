@@ -6,7 +6,7 @@
 
 :root {
     --bg-main: #1F2937;
-    --bg-quote: #3882F6;
+    --bg-quote: #E5E7EB;
     --hero-text: #f9faf8;
     --hero-secondText: #E5E7EB;
     --header-logo-text: #F9FAF8;
@@ -109,7 +109,7 @@ header nav {
 /* destination section starts  */
 
 
-.destination {
+.section {
     padding: 70px 20%;
     text-align: center;
 }
@@ -141,3 +141,27 @@ header nav {
 }
 
 /* destination section ends  */
+
+
+/* Review section starts  */
+
+.review {
+    background-color: var(--bg-quote);
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: var(--quotetext);
+    font-weight: 100;
+}
+
+.author {
+    text-align: right;
+    font-size: 24px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+
+/* review section ends  */
